@@ -10,12 +10,14 @@ function Nav() {
     </div>
 
     <div className="Profile" > 
-   
-<a href="#"> d </a>
+   <a href="#" ></a>
 
-    </div>
+ 
+    </div> 
 
     </Nav>
   }
   
   export default Nav;
+
+  
